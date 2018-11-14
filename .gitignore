@@ -1,0 +1,15 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# mypy
+.mypy_cache/
+
+#Miscellaneous
+.LICENSE
+
+# OS generated files #
+.DS_Store
