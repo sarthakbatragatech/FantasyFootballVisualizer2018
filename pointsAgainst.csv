@@ -1,0 +1,33 @@
+Team,Opposition,AvgPtsAllowed,Rank,PassingComp,PassingAtt,PassingYds,PassingInt,PassingTD,RushingAtt,RushingYds,RushingTD,RZTouch,RZG2G,Abbr
+Kansas City Chiefs Defensevs RB,@LA,27.53,1,212,1080,9,75,93,733,6,40,13,23,KC
+Cincinnati Bengals Defensevs RB,@BAL,26.32,2,210,1066,8,58,74,523,5,40,11,22,CIN
+Arizona Cardinals Defensevs RB,OAK,25.72,3,254,1134,11,39,50,381,2,53,8,21,ARI
+Oakland Raiders Defensevs RB,@ARI,24.74,4,226,1156,8,33,48,371,3,54,6,24,OAK
+Atlanta Falcons Defensevs RB,DAL,24.51,5,169,821,9,76,91,585,4,53,16,25,ATL
+Miami Dolphins Defensevs RB,Bye,24.19,6,253,1228,9,55,78,511,3,50,10,28,MIA
+Cleveland Browns Defensevs RB,Bye,23.83,7,239,1105,12,52,74,538,1,45,8,20,CLE
+Detroit Lions Defensevs RB,CAR,22.77,8,211,1108,7,46,63,381,2,38,8,14,DET
+Tampa Bay Buccaneers Defensevs RB,@NYG,22.32,9,179,716,11,48,63,473,3,38,13,20,TB
+New York Giants Defensevs RB,TB,21.36,10,203,854,8,46,63,328,5,41,13,16,NYG
+Denver Broncos Defensevs RB,@LAC,21.01,11,217,1067,7,40,52,324,2,39,8,15,DEN
+Buffalo Bills Defensevs RB,Bye,20.63,12,198,832,10,59,83,471,3,38,9,16,BUF
+New York Jets Defensevs RB,Bye,20.22,13,237,976,9,49,64,426,2,48,13,23,NYJ
+Indianapolis Colts Defensevs RB,TEN,19.33,14,210,829,4,71,90,571,2,49,12,23,IND
+San Francisco 49ers Defensevs RB,Bye,19.16,15,208,819,7,61,85,497,3,45,15,16,SF
+Green Bay Packers Defensevs RB,@SEA,18.92,16,186,864,7,41,54,359,1,32,4,21,GB
+Los Angeles Rams Defensevs RB,KC,18.55,17,205,1004,8,59,76,311,2,36,9,12,LA
+New England Patriots Defensevs RB,Bye,18.54,18,214,913,4,60,83,561,3,45,10,17,NE
+Los Angeles Chargers Defensevs RB,DEN,18.46,19,177,771,3,59,75,610,2,28,6,16,LAC
+Seattle Seahawks Defensevs RB,GB,17.53,20,174,792,6,44,63,426,1,22,4,13,SEA
+Houston Texans Defensevs RB,@WAS,17.05,21,202,715,3,51,70,356,5,27,12,7,HOU
+Washington Redskins Defensevs RB,HOU,16.64,22,150,633,5,61,81,465,2,25,17,13,WAS
+Carolina Panthers Defensevs RB,@DET,15.97,23,163,713,4,39,53,264,4,31,4,8,CAR
+Dallas Cowboys Defensevs RB,@ATL,15.92,24,185,659,4,56,69,434,2,30,6,15,DAL
+Jacksonville Jaguars Defensevs RB,PIT,15.77,25,200,790,4,37,53,309,1,23,4,15,JAX
+Minnesota Vikings Defensevs RB,@CHI,15.74,26,182,667,2,47,65,490,3,30,13,18,MIN
+Pittsburgh Steelers Defensevs RB,@JAX,15.13,27,161,595,5,37,52,247,4,30,7,14,PIT
+Philadelphia Eagles Defensevs RB,@NO,14.53,28,129,564,3,61,77,504,1,29,14,16,PHI
+New Orleans Saints Defensevs RB,PHI,14.23,29,149,488,5,49,60,393,2,31,9,18,NO
+Chicago Bears Defensevs RB,MIN,13.41,30,181,615,1,53,70,352,4,27,7,15,CHI
+Baltimore Ravens Defensevs RB,CIN,13.23,31,185,671,3,36,57,200,2,32,6,12,BAL
+Tennessee Titans Defensevs RB,@IND,13.16,32,190,740,3,40,56,264,-,27,7,9,TEN

@@ -10,22 +10,13 @@ table = dynamodb.create_table(
         {
             'AttributeName': 'Team',
             'KeyType': 'HASH'
-        },
-        {
-            'AttributeName': 'Points',
-            'KeyType': 'RANGE'
         }
     ],
     AttributeDefinitions=[
         {
             'AttributeName': 'Team',
             'AttributeType': 'S'
-        },
-        {
-            'AttributeName': 'Points',
-            'AttributeType': 'N'
-        },
-
+        }
     ],
     ProvisionedThroughput={
         'ReadCapacityUnits': 5,
@@ -34,6 +25,6 @@ table = dynamodb.create_table(
 )
 
 # Wait until the table exists.
-# table.meta.client.get_waiter('table_exists').wait(TableName='FFPoints')
+table.meta.client.get_waiter('table_exists').wait(TableName='FFPoints')
 
 print(table.item_count)
