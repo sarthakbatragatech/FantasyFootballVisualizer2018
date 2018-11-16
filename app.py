@@ -17,7 +17,7 @@ def QB():
     resp.status_code = 200
     print(resp)
     return(resp)
-    return render_template('index.html', your_list=items)
+    # return render_template('index.html', your_list=items)
 
 if __name__ == '__main__':
     app.run()
