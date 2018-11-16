@@ -2,8 +2,7 @@ import pandas as pd
 import boto3
 from decimal import Decimal
 
-def addData:
-
+def addData():
     dynamodb = boto3.resource('dynamodb')
 
     table = dynamodb.Table('FFPoints')
@@ -28,7 +27,8 @@ def addData:
             batch.put_item(
                 Item={
                     'Team': abbrs[i],
-                    'Week 10': Decimal(str(points[i])),
+                    'Week 10': str(points[i])
                 }
             )
 
+addData()
