@@ -10,6 +10,7 @@ ENV/
 # mypy
 .mypy_cache/
 .py_cache/
+__pycache__/
 
 #Miscellaneous
 .LICENSE
